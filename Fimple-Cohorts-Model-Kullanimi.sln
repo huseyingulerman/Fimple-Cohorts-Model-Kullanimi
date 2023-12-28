@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fimple-Cohorts-Model-Kullan
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fimple-Cohorts-Model-Kullanimi.DataAccess", "Fimple-Cohorts-Model-Kullanimi.DataAccess\Fimple-Cohorts-Model-Kullanimi.DataAccess.csproj", "{A55ADA23-E36A-4F36-A323-E1313C17D357}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fimple-Cohorts-Model-Kullanimi.Entities", "Fimple-Cohorts-Model-Kullanimi.Entities\Fimple-Cohorts-Model-Kullanimi.Entities.csproj", "{8A3F3676-C82D-4DA9-8774-E872FAE2B8EE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{A55ADA23-E36A-4F36-A323-E1313C17D357}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A55ADA23-E36A-4F36-A323-E1313C17D357}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A55ADA23-E36A-4F36-A323-E1313C17D357}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A3F3676-C82D-4DA9-8774-E872FAE2B8EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A3F3676-C82D-4DA9-8774-E872FAE2B8EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A3F3676-C82D-4DA9-8774-E872FAE2B8EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A3F3676-C82D-4DA9-8774-E872FAE2B8EE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
